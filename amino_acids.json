@@ -1,0 +1,246 @@
+{
+  "protein_name": "Example Protein",
+  "amino_acids": [
+    {
+      "symbol": "Ala",
+      "name": "Alanine",
+      "abbreviation": "Ala",
+      "sequence_number": 1,
+      "side_chain": "methyl",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Gly",
+      "name": "Glycine",
+      "abbreviation": "Gly",
+      "sequence_number": 6,
+      "side_chain": "hydrogen",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Ser",
+      "name": "Serine",
+      "abbreviation": "Ser",
+      "sequence_number": 9,
+      "side_chain": "hydroxyl",
+      "properties": {
+        "polarity": "polar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Val",
+      "name": "Valine",
+      "abbreviation": "Val",
+      "sequence_number": 13,
+      "side_chain": "methyl",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Asn",
+      "name": "Asparagine",
+      "abbreviation": "Asn",
+      "sequence_number": 11,
+      "side_chain": "carboxamide",
+      "properties": {
+        "polarity": "polar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Asp",
+      "name": "Aspartic acid",
+      "abbreviation": "Asp",
+      "sequence_number": 3,
+      "side_chain": "carboxyl",
+      "properties": {
+        "polarity": "polar",
+        "charge": "negative"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Gln",
+      "name": "Glutamine",
+      "abbreviation": "Gln",
+      "sequence_number": 12,
+      "side_chain": "carboxamide",
+      "properties": {
+        "polarity": "polar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+    {
+      "symbol": "E",
+      "name": "Glutamic acid",
+      "abbreviation": "Glu",
+      "sequence_number": 4,
+      "side_chain": "carboxyl",
+      "properties": {
+        "polarity": "polar",
+        "charge": "negative"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+    {
+      "symbol": "H",
+      "name": "Histidine",
+      "abbreviation": "His",
+      "sequence_number": 7,
+      "side_chain": "imidazole",
+      "properties": {
+        "polarity": "polar",
+        "charge": "positive"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+    {
+      "symbol": "I",
+      "name": "Isoleucine",
+      "abbreviation": "Ile",
+      "sequence_number": 8,
+      "side_chain": "methyl",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+    {
+      "symbol": "L",
+      "name": "Leucine",
+      "abbreviation": "Leu",
+      "sequence_number": 9,
+      "side_chain": "ethyl",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "K",
+      "name": "Lysine",
+      "abbreviation": "Lys",
+      "sequence_number": 10,
+      "side_chain": "amino",
+      "properties": {
+        "polarity": "polar",
+        "charge": "positive"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "M",
+      "name": "Methionine",
+      "abbreviation": "Met",
+      "sequence_number": 11,
+      "side_chain": "methyl_sulfide",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+    {
+      "symbol": "P",
+      "name": "Proline",
+      "abbreviation": "Pro",
+      "sequence_number": 9,
+      "side_chain": "pyrrolidine",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "F",
+      "name": "Phenylalanine",
+      "abbreviation": "Phe",
+      "sequence_number": 5,
+      "side_chain": "phenyl",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "T",
+      "name": "Threonine",
+      "abbreviation": "Thr",
+      "sequence_number": 14,
+      "side_chain": "hydroxyl",
+      "properties": {
+        "polarity": "polar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "W",
+      "name": "Tryptophan",
+      "abbreviation": "Trp",
+      "sequence_number": 15,
+      "side_chain": "indole",
+      "properties": {
+        "polarity": "nonpolar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "Y",
+      "name": "Tyrosine",
+      "abbreviation": "Tyr",
+      "sequence_number": 16,
+      "side_chain": "phenyl",
+      "properties": {
+        "polarity": "polar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond"]
+    },
+
+    {
+      "symbol": "C",
+      "name": "Cysteine",
+      "abbreviation": "Cys",
+      "sequence_number": 2,
+      "side_chain": "thiol",
+      "properties": {
+        "polarity": "polar",
+        "charge": "neutral"
+      },
+      "allowable_bond_types": ["peptide_bond", "disulfide_bond"]
+    }
+  ]
+}
